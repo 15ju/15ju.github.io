@@ -93,9 +93,10 @@ aside {
     float: left;
     width: 20%;
     padding-top: 7px;
-    background-color: cadetblue;
+    background-color: darkslategray;
     font-size: small;
     height: 739.99px;
+    -webkit-text-fillcolor: antiquewhite;
 }
 
 .div-aside{
